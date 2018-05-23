@@ -1,0 +1,42 @@
+@media only screen and (max-width: 768px) {
+  .conteiner-menu {
+    width: 100%; }
+
+  .slider {
+    width: 100%; }
+
+  .tabs {
+    width: 100%; }
+
+  .tab_content {
+    width: 80%;
+    text-align: center; }
+
+  .third {
+    width: 90%;
+    text-align: center; }
+
+  .forth {
+    width: 100%; }
+
+  .hoover {
+    width: 45%; }
+
+  .block4 {
+    width: 90%;
+    text-align: center;
+    float: none; }
+
+  .six {
+    width: 100%;
+    text-align: center; }
+
+  .one {
+    width: 40%;
+    margin: 0; }
+
+  .sevrn {
+    width: 80%;
+    text-align: center; } }
+
+/*# sourceMappingURL=media.css.map */
